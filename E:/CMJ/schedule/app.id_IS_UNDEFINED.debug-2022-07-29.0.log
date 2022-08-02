@@ -1,0 +1,324 @@
+[2022-07-29 08:46:03.300] [INFO] [main] [c.t.s.ScheduleApplication:logStarting:55] Starting ScheduleApplication v0.0.1-SNAPSHOT using Java 1.8.0_152 on jiahuaitangdeMacBook-Pro.local with PID 713 (/Users/jiahuaitang/prd/other/schedule/target/schedule-0.0.1-SNAPSHOT.jar started by jiahuaitang in /Users/jiahuaitang/prd/other/schedule)
+[2022-07-29 08:46:03.304] [DEBUG] [main] [c.t.s.ScheduleApplication:logStarting:56] Running with Spring Boot v2.7.2, Spring v5.3.22
+[2022-07-29 08:46:03.305] [INFO] [main] [c.t.s.ScheduleApplication:logStartupProfileInfo:634] No active profile set, falling back to 1 default profile: "default"
+[2022-07-29 08:46:04.350] [INFO] [scheduling-1] [c.text.schedule.FileUtil:run:39] 文件不存在,系统停止：2022-07-29_08_46
+[2022-07-29 08:46:04.357] [INFO] [main] [c.t.s.ScheduleApplication:logStarted:61] Started ScheduleApplication in 2.023 seconds (JVM running for 3.2)
+[2022-07-29 16:17:20.557] [INFO] [main] [c.t.s.ScheduleApplication:logStarting:55] Starting ScheduleApplication using Java 1.8.0_152 on bogon with PID 9351 (/Users/jiahuaitang/prd/other/schedule/target/classes started by jiahuaitang in /Users/jiahuaitang/prd/other/schedule)
+[2022-07-29 16:17:20.562] [DEBUG] [main] [c.t.s.ScheduleApplication:logStarting:56] Running with Spring Boot v2.7.2, Spring v5.3.22
+[2022-07-29 16:17:20.563] [INFO] [main] [c.t.s.ScheduleApplication:logStartupProfileInfo:634] No active profile set, falling back to 1 default profile: "default"
+[2022-07-29 16:17:21.153] [INFO] [scheduling-1] [c.t.schedule.DateSchedule:copyFile:33] 系统停止时间:2022-07-29 16:17:21
+[2022-07-29 16:17:21.156] [INFO] [main] [c.t.s.ScheduleApplication:logStarted:61] Started ScheduleApplication in 1.052 seconds (JVM running for 1.887)
+[2022-07-29 16:19:09.720] [INFO] [main] [c.t.s.ScheduleApplication:logStarting:55] Starting ScheduleApplication using Java 1.8.0_152 on bogon with PID 9361 (/Users/jiahuaitang/prd/other/schedule/target/classes started by jiahuaitang in /Users/jiahuaitang/prd/other/schedule)
+[2022-07-29 16:19:09.723] [DEBUG] [main] [c.t.s.ScheduleApplication:logStarting:56] Running with Spring Boot v2.7.2, Spring v5.3.22
+[2022-07-29 16:19:09.723] [INFO] [main] [c.t.s.ScheduleApplication:logStartupProfileInfo:634] No active profile set, falling back to 1 default profile: "default"
+[2022-07-29 16:19:10.276] [INFO] [scheduling-1] [c.t.schedule.DateSchedule:copyFile:33] 系统停止时间:2022-07-29 16:19:10
+[2022-07-29 16:19:10.279] [INFO] [main] [c.t.s.ScheduleApplication:logStarted:61] Started ScheduleApplication in 0.951 seconds (JVM running for 1.636)
+[2022-07-29 16:19:24.698] [INFO] [main] [c.t.s.ScheduleApplication:logStarting:55] Starting ScheduleApplication using Java 1.8.0_152 on bogon with PID 9363 (/Users/jiahuaitang/prd/other/schedule/target/classes started by jiahuaitang in /Users/jiahuaitang/prd/other/schedule)
+[2022-07-29 16:19:24.700] [DEBUG] [main] [c.t.s.ScheduleApplication:logStarting:56] Running with Spring Boot v2.7.2, Spring v5.3.22
+[2022-07-29 16:19:24.701] [INFO] [main] [c.t.s.ScheduleApplication:logStartupProfileInfo:634] No active profile set, falling back to 1 default profile: "default"
+[2022-07-29 16:19:25.214] [INFO] [scheduling-1] [c.text.schedule.FileUtil:run:45] 文件不存在,系统停止：2022-07-29_16_19
+[2022-07-29 16:19:25.215] [INFO] [main] [c.t.s.ScheduleApplication:logStarted:61] Started ScheduleApplication in 0.839 seconds (JVM running for 1.395)
+[2022-07-29 16:19:49.022] [INFO] [main] [c.t.s.ScheduleApplication:logStarting:55] Starting ScheduleApplication using Java 1.8.0_152 on bogon with PID 9367 (/Users/jiahuaitang/prd/other/schedule/target/classes started by jiahuaitang in /Users/jiahuaitang/prd/other/schedule)
+[2022-07-29 16:19:49.024] [DEBUG] [main] [c.t.s.ScheduleApplication:logStarting:56] Running with Spring Boot v2.7.2, Spring v5.3.22
+[2022-07-29 16:19:49.025] [INFO] [main] [c.t.s.ScheduleApplication:logStartupProfileInfo:634] No active profile set, falling back to 1 default profile: "default"
+[2022-07-29 16:19:49.559] [INFO] [scheduling-1] [c.text.schedule.FileUtil:run:45] 文件不存在,系统停止：2022-07-29_16_19
+[2022-07-29 16:19:49.561] [INFO] [main] [c.t.s.ScheduleApplication:logStarted:61] Started ScheduleApplication in 0.889 seconds (JVM running for 1.487)
+[2022-07-29 16:19:52.539] [INFO] [main] [c.t.s.ScheduleApplication:logStarting:55] Starting ScheduleApplication using Java 1.8.0_152 on bogon with PID 9370 (/Users/jiahuaitang/prd/other/schedule/target/classes started by jiahuaitang in /Users/jiahuaitang/prd/other/schedule)
+[2022-07-29 16:19:52.544] [DEBUG] [main] [c.t.s.ScheduleApplication:logStarting:56] Running with Spring Boot v2.7.2, Spring v5.3.22
+[2022-07-29 16:19:52.545] [INFO] [main] [c.t.s.ScheduleApplication:logStartupProfileInfo:634] No active profile set, falling back to 1 default profile: "default"
+[2022-07-29 16:19:53.233] [INFO] [main] [c.t.s.ScheduleApplication:logStarted:61] Started ScheduleApplication in 1.341 seconds (JVM running for 2.38)
+[2022-07-29 16:20:07.965] [INFO] [scheduling-1] [c.text.schedule.FileUtil:run:45] 文件不存在,系统停止：2022-07-29_16_20
+[2022-07-29 16:20:35.252] [INFO] [main] [c.t.s.ScheduleApplication:logStarting:55] Starting ScheduleApplication using Java 1.8.0_152 on bogon with PID 9373 (/Users/jiahuaitang/prd/other/schedule/target/classes started by jiahuaitang in /Users/jiahuaitang/prd/other/schedule)
+[2022-07-29 16:20:35.254] [DEBUG] [main] [c.t.s.ScheduleApplication:logStarting:56] Running with Spring Boot v2.7.2, Spring v5.3.22
+[2022-07-29 16:20:35.255] [INFO] [main] [c.t.s.ScheduleApplication:logStartupProfileInfo:634] No active profile set, falling back to 1 default profile: "default"
+[2022-07-29 16:20:35.769] [ERROR] [scheduling-1] [o.s.s.s.TaskUtils$LoggingErrorHandler:handleError:95] Unexpected error occurred in scheduled task
+java.text.ParseException: Unparseable date: "61200"
+	at java.text.DateFormat.parse(DateFormat.java:366)
+	at com.text.schedule.DateSchedule.copyFile(DateSchedule.java:27)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[2022-07-29 16:20:35.771] [INFO] [main] [c.t.s.ScheduleApplication:logStarted:61] Started ScheduleApplication in 0.992 seconds (JVM running for 1.745)
+[2022-07-29 16:20:35.771] [INFO] [scheduling-1] [c.text.schedule.FileUtil:run:45] 文件不存在,系统停止：2022-07-29_16_20
+[2022-07-29 16:20:50.310] [INFO] [main] [c.t.s.ScheduleApplication:logStarting:55] Starting ScheduleApplication using Java 1.8.0_152 on bogon with PID 9377 (/Users/jiahuaitang/prd/other/schedule/target/classes started by jiahuaitang in /Users/jiahuaitang/prd/other/schedule)
+[2022-07-29 16:20:50.317] [DEBUG] [main] [c.t.s.ScheduleApplication:logStarting:56] Running with Spring Boot v2.7.2, Spring v5.3.22
+[2022-07-29 16:20:50.321] [INFO] [main] [c.t.s.ScheduleApplication:logStartupProfileInfo:634] No active profile set, falling back to 1 default profile: "default"
+[2022-07-29 16:20:51.044] [ERROR] [scheduling-1] [o.s.s.s.TaskUtils$LoggingErrorHandler:handleError:95] Unexpected error occurred in scheduled task
+java.text.ParseException: Unparseable date: "61200"
+	at java.text.DateFormat.parse(DateFormat.java:366)
+	at com.text.schedule.DateSchedule.copyFile(DateSchedule.java:27)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[2022-07-29 16:20:51.046] [INFO] [main] [c.t.s.ScheduleApplication:logStarted:61] Started ScheduleApplication in 1.092 seconds (JVM running for 1.77)
+[2022-07-29 16:20:51.046] [INFO] [scheduling-1] [c.text.schedule.FileUtil:run:45] 文件不存在,系统停止：2022-07-29_16_20
+[2022-07-29 16:21:13.329] [INFO] [main] [c.t.s.ScheduleApplication:logStarting:55] Starting ScheduleApplication using Java 1.8.0_152 on bogon with PID 9379 (/Users/jiahuaitang/prd/other/schedule/target/classes started by jiahuaitang in /Users/jiahuaitang/prd/other/schedule)
+[2022-07-29 16:21:13.331] [DEBUG] [main] [c.t.s.ScheduleApplication:logStarting:56] Running with Spring Boot v2.7.2, Spring v5.3.22
+[2022-07-29 16:21:13.332] [INFO] [main] [c.t.s.ScheduleApplication:logStartupProfileInfo:634] No active profile set, falling back to 1 default profile: "default"
+[2022-07-29 16:21:13.902] [ERROR] [scheduling-1] [o.s.s.s.TaskUtils$LoggingErrorHandler:handleError:95] Unexpected error occurred in scheduled task
+java.text.ParseException: Unparseable date: "61200"
+	at java.text.DateFormat.parse(DateFormat.java:366)
+	at com.text.schedule.DateSchedule.copyFile(DateSchedule.java:27)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[2022-07-29 16:21:13.903] [INFO] [main] [c.t.s.ScheduleApplication:logStarted:61] Started ScheduleApplication in 0.934 seconds (JVM running for 1.504)
+[2022-07-29 16:21:13.903] [INFO] [scheduling-1] [c.text.schedule.FileUtil:run:45] 文件不存在,系统停止：2022-07-29_16_21
+[2022-07-29 16:21:18.001] [INFO] [main] [c.t.s.ScheduleApplication:logStarting:55] Starting ScheduleApplication using Java 1.8.0_152 on bogon with PID 9381 (/Users/jiahuaitang/prd/other/schedule/target/classes started by jiahuaitang in /Users/jiahuaitang/prd/other/schedule)
+[2022-07-29 16:21:18.006] [DEBUG] [main] [c.t.s.ScheduleApplication:logStarting:56] Running with Spring Boot v2.7.2, Spring v5.3.22
+[2022-07-29 16:21:18.007] [INFO] [main] [c.t.s.ScheduleApplication:logStartupProfileInfo:634] No active profile set, falling back to 1 default profile: "default"
+[2022-07-29 16:21:27.250] [ERROR] [scheduling-1] [o.s.s.s.TaskUtils$LoggingErrorHandler:handleError:95] Unexpected error occurred in scheduled task
+java.text.ParseException: Unparseable date: "61200"
+	at java.text.DateFormat.parse(DateFormat.java:366)
+	at com.text.schedule.DateSchedule.copyFile(DateSchedule.java:27)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset$$$capture(FutureTask.java:308)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[2022-07-29 16:21:27.255] [INFO] [main] [c.t.s.ScheduleApplication:logStarted:61] Started ScheduleApplication in 9.766 seconds (JVM running for 10.575)
+[2022-07-29 16:21:29.158] [INFO] [scheduling-1] [c.text.schedule.FileUtil:run:45] 文件不存在,系统停止：2022-07-29_16_21
+[2022-07-29 16:21:40.703] [INFO] [main] [c.t.s.ScheduleApplication:logStarting:55] Starting ScheduleApplication using Java 1.8.0_152 on bogon with PID 9385 (/Users/jiahuaitang/prd/other/schedule/target/classes started by jiahuaitang in /Users/jiahuaitang/prd/other/schedule)
+[2022-07-29 16:21:40.706] [DEBUG] [main] [c.t.s.ScheduleApplication:logStarting:56] Running with Spring Boot v2.7.2, Spring v5.3.22
+[2022-07-29 16:21:40.707] [INFO] [main] [c.t.s.ScheduleApplication:logStartupProfileInfo:634] No active profile set, falling back to 1 default profile: "default"
+[2022-07-29 16:21:45.969] [INFO] [main] [c.t.s.ScheduleApplication:logStarted:61] Started ScheduleApplication in 5.762 seconds (JVM running for 6.636)
+[2022-07-29 16:22:15.616] [INFO] [scheduling-1] [c.text.schedule.FileUtil:run:45] 文件不存在,系统停止：2022-07-29_16_22
+[2022-07-29 16:22:39.359] [INFO] [main] [c.t.s.ScheduleApplication:logStarting:55] Starting ScheduleApplication using Java 1.8.0_152 on bogon with PID 9393 (/Users/jiahuaitang/prd/other/schedule/target/classes started by jiahuaitang in /Users/jiahuaitang/prd/other/schedule)
+[2022-07-29 16:22:39.362] [DEBUG] [main] [c.t.s.ScheduleApplication:logStarting:56] Running with Spring Boot v2.7.2, Spring v5.3.22
+[2022-07-29 16:22:39.363] [INFO] [main] [c.t.s.ScheduleApplication:logStartupProfileInfo:634] No active profile set, falling back to 1 default profile: "default"
+[2022-07-29 16:22:39.973] [INFO] [main] [c.t.s.ScheduleApplication:logStarted:61] Started ScheduleApplication in 0.989 seconds (JVM running for 1.79)
+[2022-07-29 16:22:44.554] [INFO] [scheduling-1] [c.text.schedule.FileUtil:run:46] 文件不存在,系统停止：2022-07-29_16_22
+[2022-07-29 16:23:48.362] [INFO] [main] [c.t.s.ScheduleApplication:logStarting:55] Starting ScheduleApplication using Java 1.8.0_152 on bogon with PID 9408 (/Users/jiahuaitang/prd/other/schedule/target/classes started by jiahuaitang in /Users/jiahuaitang/prd/other/schedule)
+[2022-07-29 16:23:48.366] [DEBUG] [main] [c.t.s.ScheduleApplication:logStarting:56] Running with Spring Boot v2.7.2, Spring v5.3.22
+[2022-07-29 16:23:48.367] [INFO] [main] [c.t.s.ScheduleApplication:logStartupProfileInfo:634] No active profile set, falling back to 1 default profile: "default"
+[2022-07-29 16:23:49.029] [INFO] [main] [c.t.s.ScheduleApplication:logStarted:61] Started ScheduleApplication in 1.202 seconds (JVM running for 2.039)
+[2022-07-29 16:23:56.033] [INFO] [scheduling-1] [c.text.schedule.FileUtil:run:46] 文件不存在,系统停止：2022-07-29_16_23
+[2022-07-29 16:24:10.391] [INFO] [main] [c.t.s.ScheduleApplication:logStarting:55] Starting ScheduleApplication using Java 1.8.0_152 on bogon with PID 9417 (/Users/jiahuaitang/prd/other/schedule/target/classes started by jiahuaitang in /Users/jiahuaitang/prd/other/schedule)
+[2022-07-29 16:24:10.394] [DEBUG] [main] [c.t.s.ScheduleApplication:logStarting:56] Running with Spring Boot v2.7.2, Spring v5.3.22
+[2022-07-29 16:24:10.394] [INFO] [main] [c.t.s.ScheduleApplication:logStartupProfileInfo:634] No active profile set, falling back to 1 default profile: "default"
+[2022-07-29 16:24:17.294] [INFO] [main] [c.t.s.ScheduleApplication:logStarted:61] Started ScheduleApplication in 7.333 seconds (JVM running for 8.153)
+[2022-07-29 16:24:23.554] [INFO] [scheduling-1] [c.text.schedule.FileUtil:run:46] 文件不存在,系统停止：2022-07-29_16_24
+[2022-07-29 16:25:06.034] [INFO] [main] [c.t.s.ScheduleApplication:logStarting:55] Starting ScheduleApplication using Java 1.8.0_152 on bogon with PID 9422 (/Users/jiahuaitang/prd/other/schedule/target/classes started by jiahuaitang in /Users/jiahuaitang/prd/other/schedule)
+[2022-07-29 16:25:06.037] [DEBUG] [main] [c.t.s.ScheduleApplication:logStarting:56] Running with Spring Boot v2.7.2, Spring v5.3.22
+[2022-07-29 16:25:06.038] [INFO] [main] [c.t.s.ScheduleApplication:logStartupProfileInfo:634] No active profile set, falling back to 1 default profile: "default"
+[2022-07-29 16:25:18.552] [INFO] [main] [c.t.s.ScheduleApplication:logStarted:61] Started ScheduleApplication in 4.564 seconds (JVM running for 13.743)
+[2022-07-29 16:25:23.519] [INFO] [scheduling-1] [c.text.schedule.FileUtil:run:46] 文件不存在,系统停止：2022-07-29_16_25
+[2022-07-29 16:26:09.668] [INFO] [main] [c.t.s.ScheduleApplication:logStarting:55] Starting ScheduleApplication using Java 1.8.0_152 on bogon with PID 9431 (/Users/jiahuaitang/prd/other/schedule/target/classes started by jiahuaitang in /Users/jiahuaitang/prd/other/schedule)
+[2022-07-29 16:26:09.671] [DEBUG] [main] [c.t.s.ScheduleApplication:logStarting:56] Running with Spring Boot v2.7.2, Spring v5.3.22
+[2022-07-29 16:26:09.672] [INFO] [main] [c.t.s.ScheduleApplication:logStartupProfileInfo:634] No active profile set, falling back to 1 default profile: "default"
+[2022-07-29 16:26:23.789] [INFO] [scheduling-1] [c.text.schedule.FileUtil:run:49] 文件不存在,系统停止：2022-07-29_16_26
+[2022-07-29 16:26:23.797] [INFO] [main] [c.t.s.ScheduleApplication:logStarted:61] Started ScheduleApplication in 14.714 seconds (JVM running for 15.532)
+[2022-07-29 16:28:15.571] [INFO] [main] [c.t.s.ScheduleApplication:logStarting:55] Starting ScheduleApplication using Java 1.8.0_152 on bogon with PID 9434 (/Users/jiahuaitang/prd/other/schedule/target/classes started by jiahuaitang in /Users/jiahuaitang/prd/other/schedule)
+[2022-07-29 16:28:15.573] [DEBUG] [main] [c.t.s.ScheduleApplication:logStarting:56] Running with Spring Boot v2.7.2, Spring v5.3.22
+[2022-07-29 16:28:15.574] [INFO] [main] [c.t.s.ScheduleApplication:logStartupProfileInfo:634] No active profile set, falling back to 1 default profile: "default"
+[2022-07-29 16:28:16.158] [INFO] [main] [c.t.s.ScheduleApplication:logStarted:61] Started ScheduleApplication in 1.016 seconds (JVM running for 1.891)
+[2022-07-29 16:28:28.847] [INFO] [scheduling-1] [c.text.schedule.FileUtil:run:47] 文件不存在,系统停止：2022-07-29_16_28
+[2022-07-29 16:29:47.642] [INFO] [main] [c.t.s.ScheduleApplication:logStarting:55] Starting ScheduleApplication using Java 1.8.0_152 on bogon with PID 9465 (/Users/jiahuaitang/prd/other/schedule/target/classes started by jiahuaitang in /Users/jiahuaitang/prd/other/schedule)
+[2022-07-29 16:29:47.646] [DEBUG] [main] [c.t.s.ScheduleApplication:logStarting:56] Running with Spring Boot v2.7.2, Spring v5.3.22
+[2022-07-29 16:29:47.647] [INFO] [main] [c.t.s.ScheduleApplication:logStartupProfileInfo:634] No active profile set, falling back to 1 default profile: "default"
+[2022-07-29 16:29:48.369] [INFO] [scheduling-1] [c.text.schedule.FileUtil:run:46] 文件不存在,系统停止：2022-07-29_16_29
+[2022-07-29 16:29:48.371] [INFO] [main] [c.t.s.ScheduleApplication:logStarted:61] Started ScheduleApplication in 1.218 seconds (JVM running for 2.006)
+[2022-07-29 16:31:17.011] [INFO] [main] [c.t.s.ScheduleApplication:logStarting:55] Starting ScheduleApplication using Java 1.8.0_152 on bogon with PID 9502 (/Users/jiahuaitang/prd/other/schedule/target/classes started by jiahuaitang in /Users/jiahuaitang/prd/other/schedule)
+[2022-07-29 16:31:17.015] [DEBUG] [main] [c.t.s.ScheduleApplication:logStarting:56] Running with Spring Boot v2.7.2, Spring v5.3.22
+[2022-07-29 16:31:17.016] [INFO] [main] [c.t.s.ScheduleApplication:logStartupProfileInfo:634] No active profile set, falling back to 1 default profile: "default"
+[2022-07-29 16:31:17.827] [INFO] [scheduling-1] [c.text.schedule.FileUtil:run:46] 文件不存在,系统停止：2022-07-29_16_31
+[2022-07-29 16:31:17.829] [INFO] [main] [c.t.s.ScheduleApplication:logStarted:61] Started ScheduleApplication in 1.432 seconds (JVM running for 2.323)
+[2022-07-29 16:32:02.713] [INFO] [main] [c.t.s.ScheduleApplication:logStarting:55] Starting ScheduleApplication using Java 1.8.0_152 on bogon with PID 9509 (/Users/jiahuaitang/prd/other/schedule/target/classes started by jiahuaitang in /Users/jiahuaitang/prd/other/schedule)
+[2022-07-29 16:32:02.715] [DEBUG] [main] [c.t.s.ScheduleApplication:logStarting:56] Running with Spring Boot v2.7.2, Spring v5.3.22
+[2022-07-29 16:32:02.716] [INFO] [main] [c.t.s.ScheduleApplication:logStartupProfileInfo:634] No active profile set, falling back to 1 default profile: "default"
+[2022-07-29 16:32:03.281] [INFO] [scheduling-1] [c.text.schedule.FileUtil:run:46] 文件不存在,系统停止：2022-07-29_16_32
+[2022-07-29 16:32:03.282] [INFO] [main] [c.t.s.ScheduleApplication:logStarted:61] Started ScheduleApplication in 0.949 seconds (JVM running for 1.602)
+[2022-07-29 16:32:14.623] [INFO] [main] [c.t.s.ScheduleApplication:logStarting:55] Starting ScheduleApplication using Java 1.8.0_152 on bogon with PID 9512 (/Users/jiahuaitang/prd/other/schedule/target/classes started by jiahuaitang in /Users/jiahuaitang/prd/other/schedule)
+[2022-07-29 16:32:14.626] [DEBUG] [main] [c.t.s.ScheduleApplication:logStarting:56] Running with Spring Boot v2.7.2, Spring v5.3.22
+[2022-07-29 16:32:14.627] [INFO] [main] [c.t.s.ScheduleApplication:logStartupProfileInfo:634] No active profile set, falling back to 1 default profile: "default"
+[2022-07-29 16:32:15.288] [INFO] [main] [c.t.s.ScheduleApplication:logStarted:61] Started ScheduleApplication in 1.303 seconds (JVM running for 2.135)
+[2022-07-29 16:32:34.648] [INFO] [scheduling-1] [c.text.schedule.FileUtil:run:46] 文件不存在,系统停止：2022-07-29_16_32
+[2022-07-29 16:35:11.838] [INFO] [main] [c.t.s.ScheduleApplication:logStarting:55] Starting ScheduleApplication using Java 1.8.0_152 on bogon with PID 9536 (/Users/jiahuaitang/prd/other/schedule/target/classes started by jiahuaitang in /Users/jiahuaitang/prd/other/schedule)
+[2022-07-29 16:35:11.841] [DEBUG] [main] [c.t.s.ScheduleApplication:logStarting:56] Running with Spring Boot v2.7.2, Spring v5.3.22
+[2022-07-29 16:35:11.842] [INFO] [main] [c.t.s.ScheduleApplication:logStartupProfileInfo:634] No active profile set, falling back to 1 default profile: "default"
+[2022-07-29 16:35:12.490] [INFO] [main] [c.t.s.ScheduleApplication:logStarted:61] Started ScheduleApplication in 1.369 seconds (JVM running for 2.257)
+[2022-07-29 16:35:22.853] [INFO] [scheduling-1] [c.text.schedule.FileUtil:run:50] 文件不存在,系统停止：2022-07-29_16_35
+[2022-07-29 16:37:39.943] [INFO] [main] [c.t.s.ScheduleApplication:logStarting:55] Starting ScheduleApplication using Java 1.8.0_152 on bogon with PID 9556 (/Users/jiahuaitang/prd/other/schedule/target/classes started by jiahuaitang in /Users/jiahuaitang/prd/other/schedule)
+[2022-07-29 16:37:39.948] [DEBUG] [main] [c.t.s.ScheduleApplication:logStarting:56] Running with Spring Boot v2.7.2, Spring v5.3.22
+[2022-07-29 16:37:39.949] [INFO] [main] [c.t.s.ScheduleApplication:logStartupProfileInfo:634] No active profile set, falling back to 1 default profile: "default"
+[2022-07-29 16:37:40.676] [INFO] [main] [c.t.s.ScheduleApplication:logStarted:61] Started ScheduleApplication in 1.293 seconds (JVM running for 2.485)
+[2022-07-29 16:37:49.569] [INFO] [scheduling-1] [c.text.schedule.FileUtil:run:42] 文件不存在,系统停止：2022-07-29_16_37
+[2022-07-29 16:39:10.709] [INFO] [main] [c.t.s.ScheduleApplication:logStarting:55] Starting ScheduleApplication using Java 1.8.0_152 on bogon with PID 9563 (/Users/jiahuaitang/prd/other/schedule/target/classes started by jiahuaitang in /Users/jiahuaitang/prd/other/schedule)
+[2022-07-29 16:39:10.711] [DEBUG] [main] [c.t.s.ScheduleApplication:logStarting:56] Running with Spring Boot v2.7.2, Spring v5.3.22
+[2022-07-29 16:39:10.712] [INFO] [main] [c.t.s.ScheduleApplication:logStartupProfileInfo:634] No active profile set, falling back to 1 default profile: "default"
+[2022-07-29 16:39:20.396] [INFO] [main] [c.t.s.ScheduleApplication:logStarted:61] Started ScheduleApplication in 1.482 seconds (JVM running for 11.057)
+[2022-07-29 16:39:20.397] [INFO] [scheduling-1] [c.text.schedule.FileUtil:run:42] 文件不存在,系统停止：2022-07-29_16_39
+[2022-07-29 16:39:26.362] [INFO] [main] [c.t.s.ScheduleApplication:logStarting:55] Starting ScheduleApplication using Java 1.8.0_152 on bogon with PID 9565 (/Users/jiahuaitang/prd/other/schedule/target/classes started by jiahuaitang in /Users/jiahuaitang/prd/other/schedule)
+[2022-07-29 16:39:26.365] [DEBUG] [main] [c.t.s.ScheduleApplication:logStarting:56] Running with Spring Boot v2.7.2, Spring v5.3.22
+[2022-07-29 16:39:26.366] [INFO] [main] [c.t.s.ScheduleApplication:logStartupProfileInfo:634] No active profile set, falling back to 1 default profile: "default"
+[2022-07-29 16:39:31.220] [INFO] [main] [c.t.s.ScheduleApplication:logStarted:61] Started ScheduleApplication in 5.466 seconds (JVM running for 6.288)
+[2022-07-29 16:39:31.220] [INFO] [scheduling-1] [c.text.schedule.FileUtil:run:42] 文件不存在,系统停止：2022-07-29_16_39
+[2022-07-29 16:40:26.028] [INFO] [main] [c.t.s.ScheduleApplication:logStarting:55] Starting ScheduleApplication using Java 1.8.0_152 on bogon with PID 9571 (/Users/jiahuaitang/prd/other/schedule/target/classes started by jiahuaitang in /Users/jiahuaitang/prd/other/schedule)
+[2022-07-29 16:40:26.032] [DEBUG] [main] [c.t.s.ScheduleApplication:logStarting:56] Running with Spring Boot v2.7.2, Spring v5.3.22
+[2022-07-29 16:40:26.033] [INFO] [main] [c.t.s.ScheduleApplication:logStartupProfileInfo:634] No active profile set, falling back to 1 default profile: "default"
+[2022-07-29 16:40:30.576] [INFO] [main] [c.t.s.ScheduleApplication:logStarted:61] Started ScheduleApplication in 5.071 seconds (JVM running for 5.882)
+[2022-07-29 16:40:51.357] [INFO] [scheduling-1] [c.text.schedule.FileUtil:run:42] 文件不存在,系统停止：2022-07-29_16_40
+[2022-07-29 16:45:26.066] [INFO] [main] [c.t.s.ScheduleApplication:logStarting:55] Starting ScheduleApplication using Java 1.8.0_152 on bogon with PID 9601 (/Users/jiahuaitang/prd/other/schedule/target/classes started by jiahuaitang in /Users/jiahuaitang/prd/other/schedule)
+[2022-07-29 16:45:26.070] [DEBUG] [main] [c.t.s.ScheduleApplication:logStarting:56] Running with Spring Boot v2.7.2, Spring v5.3.22
+[2022-07-29 16:45:26.072] [INFO] [main] [c.t.s.ScheduleApplication:logStartupProfileInfo:634] No active profile set, falling back to 1 default profile: "default"
+[2022-07-29 16:45:43.347] [INFO] [main] [c.t.s.ScheduleApplication:logStarted:61] Started ScheduleApplication in 4.745 seconds (JVM running for 18.727)
+[2022-07-29 16:45:43.346] [INFO] [scheduling-1] [c.text.schedule.FileUtil:run:42] 文件不存在,系统停止：2022-07-29_16_45
+[2022-07-29 16:48:22.500] [INFO] [main] [c.t.s.ScheduleApplication:logStarting:55] Starting ScheduleApplication using Java 1.8.0_152 on bogon with PID 9631 (/Users/jiahuaitang/prd/other/schedule/target/classes started by jiahuaitang in /Users/jiahuaitang/prd/other/schedule)
+[2022-07-29 16:48:22.502] [DEBUG] [main] [c.t.s.ScheduleApplication:logStarting:56] Running with Spring Boot v2.7.2, Spring v5.3.22
+[2022-07-29 16:48:22.503] [INFO] [main] [c.t.s.ScheduleApplication:logStartupProfileInfo:634] No active profile set, falling back to 1 default profile: "default"
+[2022-07-29 16:48:28.138] [INFO] [main] [c.t.s.ScheduleApplication:logStarted:61] Started ScheduleApplication in 6.102 seconds (JVM running for 7.148)
+[2022-07-29 16:48:30.038] [INFO] [scheduling-1] [c.text.schedule.FileUtil:run:42] 文件不存在,系统停止：2022-07-29_16_48
+[2022-07-29 16:49:18.005] [INFO] [main] [c.t.s.ScheduleApplication:logStarting:55] Starting ScheduleApplication using Java 1.8.0_152 on bogon with PID 9640 (/Users/jiahuaitang/prd/other/schedule/target/classes started by jiahuaitang in /Users/jiahuaitang/prd/other/schedule)
+[2022-07-29 16:49:18.009] [DEBUG] [main] [c.t.s.ScheduleApplication:logStarting:56] Running with Spring Boot v2.7.2, Spring v5.3.22
+[2022-07-29 16:49:18.009] [INFO] [main] [c.t.s.ScheduleApplication:logStartupProfileInfo:634] No active profile set, falling back to 1 default profile: "default"
+[2022-07-29 16:49:27.072] [INFO] [main] [c.t.s.ScheduleApplication:logStarted:61] Started ScheduleApplication in 8.182 seconds (JVM running for 10.491)
+[2022-07-29 16:49:27.071] [INFO] [scheduling-1] [c.text.schedule.FileUtil:run:42] 文件不存在,系统停止：2022-07-29_16_49
+[2022-07-29 16:52:01.428] [INFO] [main] [c.t.s.ScheduleApplication:logStarting:55] Starting ScheduleApplication using Java 1.8.0_152 on bogon with PID 9685 (/Users/jiahuaitang/prd/other/schedule/target/classes started by jiahuaitang in /Users/jiahuaitang/prd/other/schedule)
+[2022-07-29 16:52:01.431] [DEBUG] [main] [c.t.s.ScheduleApplication:logStarting:56] Running with Spring Boot v2.7.2, Spring v5.3.22
+[2022-07-29 16:52:01.431] [INFO] [main] [c.t.s.ScheduleApplication:logStartupProfileInfo:634] No active profile set, falling back to 1 default profile: "default"
+[2022-07-29 16:52:04.318] [INFO] [main] [c.t.s.ScheduleApplication:logStarted:61] Started ScheduleApplication in 3.449 seconds (JVM running for 4.373)
+[2022-07-29 16:52:15.126] [INFO] [scheduling-1] [c.text.schedule.FileUtil:run:45] 文件不存在,系统停止：2022-07-29_16_52
+[2022-07-29 16:52:40.074] [INFO] [main] [c.t.s.ScheduleApplication:logStarting:55] Starting ScheduleApplication using Java 1.8.0_152 on bogon with PID 9688 (/Users/jiahuaitang/prd/other/schedule/target/classes started by jiahuaitang in /Users/jiahuaitang/prd/other/schedule)
+[2022-07-29 16:52:40.077] [DEBUG] [main] [c.t.s.ScheduleApplication:logStarting:56] Running with Spring Boot v2.7.2, Spring v5.3.22
+[2022-07-29 16:52:40.078] [INFO] [main] [c.t.s.ScheduleApplication:logStartupProfileInfo:634] No active profile set, falling back to 1 default profile: "default"
+[2022-07-29 16:52:40.653] [INFO] [main] [c.t.s.ScheduleApplication:logStarted:61] Started ScheduleApplication in 1.093 seconds (JVM running for 1.897)
+[2022-07-29 16:53:05.762] [INFO] [scheduling-1] [c.text.schedule.FileUtil:run:45] 文件不存在,系统停止：2022-07-29_16_53
+[2022-07-29 16:56:32.254] [INFO] [main] [c.t.s.ScheduleApplication:logStarting:55] Starting ScheduleApplication using Java 1.8.0_152 on bogon with PID 9734 (/Users/jiahuaitang/prd/other/schedule/target/classes started by jiahuaitang in /Users/jiahuaitang/prd/other/schedule)
+[2022-07-29 16:56:32.257] [DEBUG] [main] [c.t.s.ScheduleApplication:logStarting:56] Running with Spring Boot v2.7.2, Spring v5.3.22
+[2022-07-29 16:56:32.257] [INFO] [main] [c.t.s.ScheduleApplication:logStartupProfileInfo:634] No active profile set, falling back to 1 default profile: "default"
+[2022-07-29 16:56:32.843] [WARN] [main] [o.s.c.a.AnnotationConfigApplicationContext:refresh:591] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'fileSchedule': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'config.win' in value "${config.win}"
+[2022-07-29 16:56:32.853] [INFO] [main] [o.s.b.a.l.ConditionEvaluationReportLoggingListener:logMessage:136] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[2022-07-29 16:56:32.886] [ERROR] [main] [o.s.b.SpringApplication:reportFailure:824] Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'fileSchedule': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'config.win' in value "${config.win}"
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:405)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1431)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:619)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:955)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:734)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295)
+	at com.text.schedule.ScheduleApplication.main(ScheduleApplication.java:12)
+Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'config.win' in value "${config.win}"
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:180)
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:126)
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:239)
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:210)
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:191)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:936)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1332)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1311)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:656)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:639)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:119)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	... 16 common frames omitted
+[2022-07-29 17:22:51.267] [INFO] [main] [c.t.s.ScheduleApplication:logStarting:55] Starting ScheduleApplication using Java 1.8.0_152 on jiahuaitangdeMacBook-Pro.local with PID 9861 (/Users/jiahuaitang/prd/other/schedule/target/classes started by jiahuaitang in /Users/jiahuaitang/prd/other/schedule)
+[2022-07-29 17:22:51.271] [DEBUG] [main] [c.t.s.ScheduleApplication:logStarting:56] Running with Spring Boot v2.7.2, Spring v5.3.22
+[2022-07-29 17:22:51.272] [INFO] [main] [c.t.s.ScheduleApplication:logStartupProfileInfo:634] No active profile set, falling back to 1 default profile: "default"
+[2022-07-29 17:22:51.858] [WARN] [main] [o.s.c.a.AnnotationConfigApplicationContext:refresh:591] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'fileSchedule': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'config.win' in value "${config.win}"
+[2022-07-29 17:22:51.872] [INFO] [main] [o.s.b.a.l.ConditionEvaluationReportLoggingListener:logMessage:136] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[2022-07-29 17:22:51.911] [ERROR] [main] [o.s.b.SpringApplication:reportFailure:824] Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'fileSchedule': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'config.win' in value "${config.win}"
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:405)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1431)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:619)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:955)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:734)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295)
+	at com.text.schedule.ScheduleApplication.main(ScheduleApplication.java:12)
+Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'config.win' in value "${config.win}"
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:180)
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:126)
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:239)
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:210)
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:191)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:936)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1332)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1311)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:656)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:639)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:119)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	... 16 common frames omitted
+[2022-07-29 17:22:58.371] [INFO] [main] [c.t.s.ScheduleApplication:logStarting:55] Starting ScheduleApplication using Java 1.8.0_152 on jiahuaitangdeMacBook-Pro.local with PID 9870 (/Users/jiahuaitang/prd/other/schedule/target/classes started by jiahuaitang in /Users/jiahuaitang/prd/other/schedule)
+[2022-07-29 17:22:58.377] [DEBUG] [main] [c.t.s.ScheduleApplication:logStarting:56] Running with Spring Boot v2.7.2, Spring v5.3.22
+[2022-07-29 17:22:58.380] [INFO] [main] [c.t.s.ScheduleApplication:logStartupProfileInfo:634] No active profile set, falling back to 1 default profile: "default"
+[2022-07-29 17:22:59.350] [INFO] [scheduling-1] [c.t.schedule.DateSchedule:copyFile:33] 系统停止时间:2022-07-29 17:22:59
+[2022-07-29 17:22:59.354] [INFO] [main] [c.t.s.ScheduleApplication:logStarted:61] Started ScheduleApplication in 1.639 seconds (JVM running for 2.947)
+[2022-07-29 17:23:03.177] [INFO] [main] [c.t.s.ScheduleApplication:logStarting:55] Starting ScheduleApplication using Java 1.8.0_152 on jiahuaitangdeMacBook-Pro.local with PID 9872 (/Users/jiahuaitang/prd/other/schedule/target/classes started by jiahuaitang in /Users/jiahuaitang/prd/other/schedule)
+[2022-07-29 17:23:03.182] [DEBUG] [main] [c.t.s.ScheduleApplication:logStarting:56] Running with Spring Boot v2.7.2, Spring v5.3.22
+[2022-07-29 17:23:03.182] [INFO] [main] [c.t.s.ScheduleApplication:logStartupProfileInfo:634] No active profile set, falling back to 1 default profile: "default"
+[2022-07-29 17:23:03.725] [INFO] [scheduling-1] [c.t.schedule.DateSchedule:copyFile:33] 系统停止时间:2022-07-29 17:23:03
+[2022-07-29 17:23:03.727] [INFO] [main] [c.t.s.ScheduleApplication:logStarted:61] Started ScheduleApplication in 0.921 seconds (JVM running for 1.48)
+[2022-07-29 17:23:12.967] [INFO] [main] [c.t.s.ScheduleApplication:logStarting:55] Starting ScheduleApplication using Java 1.8.0_152 on jiahuaitangdeMacBook-Pro.local with PID 9876 (/Users/jiahuaitang/prd/other/schedule/target/classes started by jiahuaitang in /Users/jiahuaitang/prd/other/schedule)
+[2022-07-29 17:23:12.970] [DEBUG] [main] [c.t.s.ScheduleApplication:logStarting:56] Running with Spring Boot v2.7.2, Spring v5.3.22
+[2022-07-29 17:23:12.970] [INFO] [main] [c.t.s.ScheduleApplication:logStartupProfileInfo:634] No active profile set, falling back to 1 default profile: "default"
+[2022-07-29 17:23:13.483] [INFO] [main] [c.t.s.ScheduleApplication:logStarted:61] Started ScheduleApplication in 0.851 seconds (JVM running for 1.414)
+[2022-07-29 17:23:13.484] [INFO] [scheduling-1] [c.text.schedule.FileUtil:run:78] 文件复制时间：2022-07-29 17:23:13
+[2022-07-29 17:23:26.237] [INFO] [main] [c.t.s.ScheduleApplication:logStarting:55] Starting ScheduleApplication using Java 1.8.0_152 on jiahuaitangdeMacBook-Pro.local with PID 9883 (/Users/jiahuaitang/prd/other/schedule/target/classes started by jiahuaitang in /Users/jiahuaitang/prd/other/schedule)
+[2022-07-29 17:23:26.240] [DEBUG] [main] [c.t.s.ScheduleApplication:logStarting:56] Running with Spring Boot v2.7.2, Spring v5.3.22
+[2022-07-29 17:23:26.240] [INFO] [main] [c.t.s.ScheduleApplication:logStartupProfileInfo:634] No active profile set, falling back to 1 default profile: "default"
+[2022-07-29 17:23:26.849] [INFO] [main] [c.t.s.ScheduleApplication:logStarted:61] Started ScheduleApplication in 1.18 seconds (JVM running for 2.058)
+[2022-07-29 17:23:32.025] [INFO] [scheduling-1] [c.text.schedule.FileUtil:run:78] 文件复制时间：2022-07-29 17:23:26

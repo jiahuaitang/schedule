@@ -1,0 +1,14 @@
+server:
+  servlet:
+    context-path: /schedule
+  port: 8088
+app:
+  id: schedule
+
+config:
+  filePath1: "E:\\CMJ\\report\\"
+  filePath2: "/Users/jiahuaitang/testdemo/"
+  endTime: "19:00:00"
+  fileName: "weblogic中间件日常巡检结果-"
+  mac: /
+  win: \\
