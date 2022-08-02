@@ -23,6 +23,7 @@ public class FileSchedule {
     public void copyFile() throws IOException {
         FileUtil fileUtil = new FileUtil(filePath1,filePath2,fileName,mac,win);
         fileUtil.run();
+
     }
 
 }
